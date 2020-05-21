@@ -31,7 +31,7 @@ GuerillaTags.GuerillaTagsWindow()
 * [ ] Display all tags present in the scene
 
 
-# Credits
+## Credits
 
 Original script was kindly shared by TIMOTHEY#1953 on the Guerilla Discord.
 
