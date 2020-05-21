@@ -2,12 +2,11 @@
 
 # GuerillaTags
 
-![](screenshot.png)
+![GitHub](https://img.shields.io/github/license/aboellinger/maya-to-guerilla-tags)
 
 Small UI to add and remove GuerillaTags in your maya scene.
 
-Original script was kindly shared by TIMOTHEY#1953 on the Guerilla Discord.
-Guerilla discord invitation link: https://discord.gg/bX2CaYq
+![](screenshot.png)
 
 ## Install
 
@@ -30,3 +29,10 @@ GuerillaTags.GuerillaTagsWindow()
 * [x] Select objects including current tags
 * [ ] Select objects with no tags (currently broken)
 * [ ] Display all tags present in the scene
+
+
+# Credits
+
+Original script was kindly shared by TIMOTHEY#1953 on the Guerilla Discord.
+
+Guerilla discord invitation link: https://discord.gg/bX2CaYq
