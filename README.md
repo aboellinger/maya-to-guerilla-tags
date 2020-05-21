@@ -2,8 +2,8 @@
 
 # GuerillaTags
 
-![](GuerillaTags/Icon/icon-GuerillaTags_02.png)
-  
+![](screenshot.png)
+
 Small UI to add and remove GuerillaTags in your maya scene.
 
 Original script was kindly shared by TIMOTHEY#1953 on the Guerilla Discord.
@@ -22,3 +22,11 @@ reload(GuerillaTags)
 # Instanciate UI
 GuerillaTags.GuerillaTagsWindow()
 ```
+
+## Features
+
+* [x] Support for operation on multiple tags (comma-separated) at once
+* [x] Edition of tags on selected object (clear, remove, insert, replace)
+* [x] Select objects including current tags
+* [ ] Select objects with no tags (currently broken)
+* [ ] Display all tags present in the scene
